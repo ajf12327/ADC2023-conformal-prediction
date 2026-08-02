@@ -1,0 +1,29 @@
+# Local Ariel challenge datasets
+/FullDataset/
+/TestData/
+/data/
+
+# Documents not included in this repository
+/docs/BASELINE_AUDIT.md
+/docs/WORK_PACKAGES.md
+
+# Downloaded archives
+/*.zip
+
+# Python virtual environments and caches
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS archive metadata
+**/__MACOSX/
+**/.DS_Store
+
+# Generated project artefacts
+/artifacts/
+/outputs/
+/checkpoints/
